@@ -14,6 +14,7 @@ This demo showcases how GitHub Copilot can assist developers in various coding t
 
 -   `demo.php`: Demonstrates Copilot's ability to auto-generate a function to validate an email address in PHP.
 -   `demo.js`: Shows how Copilot can explain code and refactor functions for better readability in JavaScript.
+-   `demo.scss`: Shows how Copilot can refactor styles to use mixins for better resusability in SASS.
 
 ## How to Use
 
