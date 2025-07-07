@@ -1,0 +1,26 @@
+/**
+* Demo #3
+* Refactoring css styles with mixins
+* Prompt: "Refactor this SCSS by creating a mixin for shared button styles. Then apply it to each button variant."
+**/
+
+.button-primary {
+	background-color: #007bff;
+	color: #fff;
+	padding: 0.5rem 1rem;
+	border-radius: 0.25rem;
+}
+
+.button-secondary {
+	background-color: #6c757d;
+	color: #fff;
+	padding: 0.5rem 1rem;
+	border-radius: 0.25rem;
+}
+
+.button-success {
+	background-color: #28a745;
+	color: #fff;
+	padding: 0.5rem 1rem;
+	border-radius: 0.25rem;
+}
